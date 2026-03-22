@@ -3,8 +3,8 @@ class Cloudhop < Formula
 
   desc "The easiest way to copy files between cloud storage services"
   homepage "https://github.com/husamsoboh-cyber/cloudhop"
-  url "https://files.pythonhosted.org/packages/b1/05/fde69acaef0c259bb9db1bf1258fa43fa8130000361eb66ff5b25eda56b7/cloudhop-0.11.0.tar.gz"
-  sha256 "8bebcba5530479f3cc0bac6386d1c0c95503a747622f51a6de45640dc324ea2d"
+  url "https://files.pythonhosted.org/packages/68/01/5848616e5ce9a9e358cfd8fc0e9cdd19355d97f599ded19cd4b1c7d201cc/cloudhop-0.12.1.tar.gz"
+  sha256 "016c07346fa12ea3062640666c7086744623d4def142802a57cd17bd8e3da88c"
   license "MIT"
 
   depends_on :macos
